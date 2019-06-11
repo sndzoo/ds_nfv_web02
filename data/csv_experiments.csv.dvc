@@ -1,8 +1,8 @@
-md5: de31704a9e1543cf1cf35e32a9e183cc
-outs:
-- cache: true
-  md5: 9b19ba707aa5f2d0e6acb6f92022c3c6
-  metric: false
-  path: data/csv_experiments.csv
-  persist: false
 wdir: ..
+outs:
+- path: data/csv_experiments.csv
+  metric: false
+  cache: true
+  persist: false
+  md5: c45fabab8ed6d1839cfbdc4c46ffeba6
+md5: 570debceb02680224e93e38b3fafc18f
